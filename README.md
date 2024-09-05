@@ -2,7 +2,7 @@
 A client-server email system using Python that allows clients to send emails to Gmail accounts.
 
 The main functionalities this project aims to perform are:
-• Implement the ability to send emails using the server-client architecture.
+• Implement the ability to send emails using the client-server architecture.
 • Develop a mail server application capable of receiving requests from clients
 • The mail server application should be able to send the client’s mail to the respective Gmail account server (SMTP protocol).
 • Handle multiple client connections concurrently.
